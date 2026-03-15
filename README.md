@@ -1,4 +1,4 @@
-Click here to see the full dashboard - ![portfolio_dashboard](
+Click here to see the full dashboard - [App_power_BI_link](
 https://app.powerbi.com/view?r=eyJrIjoiMDE5NjhhOGEtZGVmYy00ODQzLTk1NTktNmE4M2IzNzhkYzZjIiwidCI6IjJhODhmMzcyLTZmOWEtNDQ3YS1iY2MyLWRjYzYzODgzN2JhMyJ9)
 
 
